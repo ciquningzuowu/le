@@ -1,4 +1,4 @@
-# le
+# .github/workflows/deploy.yml
 name: Deploy Rspress site to Pages
 
 on:
